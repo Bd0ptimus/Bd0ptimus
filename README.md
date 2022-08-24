@@ -1,10 +1,10 @@
-Hi there! I am Bui The Dung 
+Hi there🖐! I am Bui The Dung🐻
 
-Moscow, Russia
+Vietnamese in Moscow, Russia 
 
-Student at MIET National Research University Moscow Institute of Electronic Technology
+📚 5th year student at MIET National Research University Moscow Institute of Electronic Technology
 
-Back-end developer at ООО Алерия
+💻 Back-end developer at ООО Алерия
 
 I'm a full-stack developer with 1 year of experience working with web and back-end for mobile apps. 
 I have good self-study ability and always have a desire to improve.
