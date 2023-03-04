@@ -6,7 +6,7 @@ Vietnamese in Moscow, Russia
 
 💻 full-stack developer at ООО КиберИнтеллект
 
-Technologies : Laravel, React-native, Flutter, PHP, JS, JQUERY, HTML, CSS
+Technologies : Laravel, PHP, React-native, Flutter, JS, JQUERY, HTML, CSS
 
 I'm a full-stack developer with nearly 2 year of experience working with web and back-end for mobile apps. 
 I have good self-study ability and always have a desire to improve.
