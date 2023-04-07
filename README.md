@@ -2,9 +2,7 @@ Hi there🖐! I am Bui The Dung🐻
 
 Vietnamese in Moscow, Russia 
 
-📚 5th year student at MIET National Research University Moscow Institute of Electronic Technology
-
-💻 full-stack developer at ООО КиберИнтеллект
+💻 Leader at HTK Asia
 
 Technologies : Laravel, PHP, React-native, Flutter, JS, JQUERY, HTML, CSS
 
